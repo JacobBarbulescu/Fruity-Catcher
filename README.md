@@ -2,7 +2,7 @@
 
 A 2d fruit catcher clone developed in Unity.
 
-The game was developed independently by @JacobBarbulescu during April of 2023.
+The game was developed independently by [@JacobBarbulescu](https://www.github.com/JacobBarbulescu) during April of 2023.
 
 ![Fruity Catcher](https://github.com/user-attachments/assets/f3050d87-c798-479e-9564-7feafcb46da8)
 
